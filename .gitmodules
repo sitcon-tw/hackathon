@@ -1,0 +1,4 @@
+[submodule "2024"]
+	path = 2024
+	url = git@github.com:sitcon-tw/hackathon2024-landing.git
+	branch = gh-page
