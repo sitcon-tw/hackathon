@@ -2,3 +2,7 @@
 	path = 2024
 	url = https://github.com/sitcon-tw/hackathon2024.git
 	branch = gh-pages
+[submodule "2026"]
+	path = 2026
+	url = https://github.com/sitcon-tw/hackathon2026.git
+	branch = main
